@@ -1,0 +1,27 @@
+# Audio sementara / hasil test
+*.wav
+*.mp3
+
+# Folder temporary & environment
+_*/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Log & backup
+*.log
+*.bak
+
+# File temporary (audit/test/scratch scripts)
+_*.py
+_*.json
+_*.txt
+_*.srt
+_*.tsv
+_*.vtt
+_convert_to_mp3.bat
+
+# OS
+Thumbs.db
+.DS_Store

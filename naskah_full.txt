@@ -1,0 +1,25 @@
+Tragedi Dusun Legetang 1955. Video 1 Misteri True Crime Lokal. Format: 45-50 detik. Full script dengan prosody annotation via punctuation. Gaya in media res, narasi mencekam, dokumenter gelap.
+
+NASKAH (paste di GUI Supertonic):
+
+Tujuh belas April, sembilan belas lima puluh lima. Dusun Legetang, Jawa Tengah.
+
+Satu desa, rata dengan tanah, dalam satu malam.
+
+Bukan karena gempa. Bukan karena banjir. Tapi karena puncak Gunung Pengamun-amun... tiba-tiba berpindah.
+
+Puncak gunung itu terbang sejauh ratusan meter. Hanya untuk menimbun dusun ini, hidup-hidup.
+
+Warga sekitar tidak dengar suara longsor. Yang mereka dengar cuma satu: dentuman keras... seolah langit runtuh.
+
+Banyak yang bilang... ini bukan sekadar bencana alam. Tapi hukuman. Atas perilaku gelap warga di sana.
+
+Hingga alam sendiri, yang memutuskan... untuk menghapus mereka dari peta.
+
+---
+METADATA:
+- Durasi: 46-52 detik (speed 0.92, voice M2)
+- Karakter: 789
+- Prosody via punctuation: titik (jeda pendek), koma (jeda), ... (jeda dramatis), titik dua (setup), kalimat pendek (punch), kalimat panjang (flow)
+- Kenapa gak "baca": variasi panjang kalimat + tanda baca + titik tiga bikin ritme gak flat
+- Speed: 0.90-0.92 biar agak lambat & seram

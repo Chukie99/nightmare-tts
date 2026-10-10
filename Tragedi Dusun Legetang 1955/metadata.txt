@@ -1,0 +1,3 @@
+Judul: Tragedi Dusun Legetang 1955
+Voice: M2
+EmotionEngine: True
